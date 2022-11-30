@@ -1,0 +1,174 @@
+*** Starting uWSGI 2.0.21 (64bit) on [Mon Nov 21 15:54:23 2022] ***
+compiled with version: 11.2.1 20220127 (Red Hat 11.2.1-9) on 18 November 2022 06:54:23
+os: Linux-5.14.0-70.30.1.el9_0.x86_64 #1 SMP PREEMPT Thu Nov 3 20:29:04 UTC 2022
+nodename: localhost.localdomain
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /var/www/django.onstreet.kr/anybiz
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /var/www/django.onstreet.kr/anybiz
+your processes number limit is 30503
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /var/www/django.onstreet.kr/anybiz/django.sock fd 3
+setuid() to 977
+Python version: 3.9.10 (main, Sep 23 2022, 00:00:00)  [GCC 11.2.1 20220127 (Red Hat 11.2.1-9)]
+PEP 405 virtualenv detected: /var/www/django.onstreet.kr/venv_anybiz
+Set PythonHome to /var/www/django.onstreet.kr/venv_anybiz
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1e7d1b0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x1e7d1b0 pid: 6298 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 6298)
+spawned uWSGI worker 1 (pid: 6299, cores: 1)
+spawned uWSGI worker 2 (pid: 6300, cores: 1)
+spawned uWSGI worker 3 (pid: 6301, cores: 1)
+spawned uWSGI worker 4 (pid: 6302, cores: 1)
+spawned uWSGI worker 5 (pid: 6303, cores: 1)
+*** Starting uWSGI 2.0.21 (64bit) on [Mon Nov 21 15:54:46 2022] ***
+compiled with version: 11.2.1 20220127 (Red Hat 11.2.1-9) on 18 November 2022 06:54:23
+os: Linux-5.14.0-70.30.1.el9_0.x86_64 #1 SMP PREEMPT Thu Nov 3 20:29:04 UTC 2022
+nodename: localhost.localdomain
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /var/www/django.onstreet.kr/anybiz
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /var/www/django.onstreet.kr/anybiz
+your processes number limit is 30503
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /var/www/django.onstreet.kr/anybiz/django.sock fd 3
+setuid() to 977
+Python version: 3.9.10 (main, Sep 23 2022, 00:00:00)  [GCC 11.2.1 20220127 (Red Hat 11.2.1-9)]
+PEP 405 virtualenv detected: /var/www/django.onstreet.kr/venv_anybiz
+Set PythonHome to /var/www/django.onstreet.kr/venv_anybiz
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1ff61b0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x1ff61b0 pid: 6308 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 6308)
+spawned uWSGI worker 1 (pid: 6309, cores: 1)
+spawned uWSGI worker 2 (pid: 6310, cores: 1)
+spawned uWSGI worker 3 (pid: 6311, cores: 1)
+spawned uWSGI worker 4 (pid: 6312, cores: 1)
+spawned uWSGI worker 5 (pid: 6313, cores: 1)
+*** Starting uWSGI 2.0.21 (64bit) on [Mon Nov 21 15:55:20 2022] ***
+compiled with version: 11.2.1 20220127 (Red Hat 11.2.1-9) on 18 November 2022 06:54:23
+os: Linux-5.14.0-70.30.1.el9_0.x86_64 #1 SMP PREEMPT Thu Nov 3 20:29:04 UTC 2022
+nodename: localhost.localdomain
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /var/www/django.onstreet.kr/anybiz
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /var/www/django.onstreet.kr/anybiz
+your processes number limit is 30503
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /var/www/django.onstreet.kr/anybiz/django.sock fd 3
+setuid() to 977
+Python version: 3.9.10 (main, Sep 23 2022, 00:00:00)  [GCC 11.2.1 20220127 (Red Hat 11.2.1-9)]
+PEP 405 virtualenv detected: /var/www/django.onstreet.kr/venv_anybiz
+Set PythonHome to /var/www/django.onstreet.kr/venv_anybiz
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1d531b0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x1d531b0 pid: 6318 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 6318)
+spawned uWSGI worker 1 (pid: 6319, cores: 1)
+spawned uWSGI worker 2 (pid: 6320, cores: 1)
+spawned uWSGI worker 3 (pid: 6321, cores: 1)
+spawned uWSGI worker 4 (pid: 6322, cores: 1)
+spawned uWSGI worker 5 (pid: 6323, cores: 1)
+*** Starting uWSGI 2.0.21 (64bit) on [Mon Nov 21 15:57:53 2022] ***
+compiled with version: 11.2.1 20220127 (Red Hat 11.2.1-9) on 18 November 2022 06:54:23
+os: Linux-5.14.0-70.30.1.el9_0.x86_64 #1 SMP PREEMPT Thu Nov 3 20:29:04 UTC 2022
+nodename: localhost.localdomain
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /var/www/django.onstreet.kr/anybiz
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /var/www/django.onstreet.kr/anybiz
+your processes number limit is 30503
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /var/www/django.onstreet.kr/anybiz/django.sock fd 3
+setuid() to 977
+Python version: 3.9.10 (main, Sep 23 2022, 00:00:00)  [GCC 11.2.1 20220127 (Red Hat 11.2.1-9)]
+PEP 405 virtualenv detected: /var/www/django.onstreet.kr/venv_anybiz
+Set PythonHome to /var/www/django.onstreet.kr/venv_anybiz
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x24591b0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x24591b0 pid: 6364 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 6364)
+spawned uWSGI worker 1 (pid: 6365, cores: 1)
+spawned uWSGI worker 2 (pid: 6366, cores: 1)
+spawned uWSGI worker 3 (pid: 6367, cores: 1)
+spawned uWSGI worker 4 (pid: 6368, cores: 1)
+spawned uWSGI worker 5 (pid: 6369, cores: 1)
+Gracefully killing worker 2 (pid: 6300)...
+Gracefully killing worker 2 (pid: 6310)...
+SIGINT/SIGTERM received...killing workers...
+SIGINT/SIGTERM received...killing workers...
+SIGINT/SIGTERM received...killing workers...
+SIGINT/SIGTERM received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+unlink(): No such file or directory [core/uwsgi.c line 1662]
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+unlink(): No such file or directory [core/uwsgi.c line 1662]
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+unlink(): No such file or directory [core/uwsgi.c line 1662]
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+unlink(): No such file or directory [core/uwsgi.c line 1662]
